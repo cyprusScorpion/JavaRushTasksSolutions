@@ -1,0 +1,17 @@
+2018-11-24 18:08:38 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+2018-11-24 18:08:38 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Version 3.21 ----------
+
+2018-11-24 18:08:38 INFO  JavaRushTasksProjectComponent.setAutoscrolls(343) - Autoscrolls успешно установлены
+2018-11-24 18:08:40 INFO  ApacheHttpClient.login(228) - Ожидание ответа сервера.
+2018-11-24 18:08:40 INFO  ApacheHttpClient.login(232) - responseCode = 200
+2018-11-24 18:08:40 INFO  ApacheHttpClient.login(263) - JSESSIONID OK
+2018-11-24 18:08:40 INFO  ApacheHttpClient.refreshUserInfo(291) - responseCode = 200
+2018-11-24 18:08:40 INFO  ApacheHttpClient.refreshUserInfo(297) - Информация о пользователе получена.
+2018-11-24 18:08:40 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
+2018-11-24 18:08:40 INFO  AbstractRestApiClient.startService(70) - EventsService запущен.
+2018-11-24 18:11:33 INFO  JavaRushTasksProjectComponent.projectClosing(165) - ---------- Project JavaRushTasks closed ----------
+
+2018-11-24 18:11:49 INFO  ApacheHttpClient.getWebResourceAsStream(437) - responseCode = 200
+2018-11-24 18:11:50 INFO  ApacheHttpClient.getFilteredTasks(324) - responseCode = 200
+2018-11-24 18:14:21 INFO  ApacheHttpClient.getWebResourceAsStream(437) - responseCode = 200
+2018-11-24 18:14:21 INFO  ApacheHttpClient.getFilteredTasks(324) - responseCode = 200
