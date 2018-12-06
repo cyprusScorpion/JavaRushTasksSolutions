@@ -2889,3 +2889,17 @@ kotlin.UninitializedPropertyAccessException: lateinit property separator has not
 2018-12-06 23:32:48 INFO  ApacheHttpClient.completed(27) - responseCode = 200
 2018-12-06 23:32:48 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
 2018-12-06 23:32:56 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-06 23:33:41 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-06 23:33:41 INFO  ApacheHttpClient.getFilteredTasks(327) - responseCode = 200
+2018-12-06 23:33:44 INFO  ApacheHttpClient.getTaskTemplateInfo(344) - responseCode = 200
+2018-12-06 23:33:46 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-06 23:33:46 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-06 23:33:47 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-06 23:33:47 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-06 23:33:48 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-06 23:33:56 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-06 23:34:20 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-06 23:34:20 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2018-12-06 23:34:20 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-06 23:34:21 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-12-06 23:34:21 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
